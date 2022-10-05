@@ -1,0 +1,36 @@
+{
+  "data1": [
+    {
+      "id": "1",
+      "titile": "hehe",
+      "date": "12/12/2022",
+      "body": "lorem ipsum"
+    },
+    {
+      "id": "2",
+      "titile": "huhu",
+      "date": "12/12/2022",
+      "body": "lorem ipsum dolor"
+    },
+    {
+      "id": "3",
+      "titile": "huhu",
+      "date": "12/12/2022",
+      "body": "lorem ipsum dolor"
+    }
+  ],
+  "data2": [
+    {
+      "id": "1",
+      "data": "post1.json"
+    },
+    {
+      "id": "2",
+      "data": "post2.json"
+    },
+    {
+      "id": "3",
+      "data": "post3.json"
+    }
+  ]
+}
